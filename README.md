@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Venz!<br>I'm currently learning Full-Stack Development.<br>I'm looking to collaborate on any projects that aligns with my interests and gives me opportunities.
+Hi, my name is Venz!<br>I'm an aspiring Full-Stack Developer.<br>I'm looking to collaborate on any projects that aligns with my interests and gives me opportunities.
 
 
 ## 🌐 Socials:
